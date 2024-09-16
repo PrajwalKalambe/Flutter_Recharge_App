@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCYEr9U5P5_a3A6j1REXQeqvH6O8695UFc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>41864241336</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mobileRecharge</string>
+	<key>PROJECT_ID</key>
+	<string>mobile-recharge-app-8ef1f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mobile-recharge-app-8ef1f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:41864241336:ios:e498ab5eec990e57cb544d</string>
+</dict>
+</plist>

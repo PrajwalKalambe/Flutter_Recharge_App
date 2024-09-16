@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41864241336",
+    "project_id": "mobile-recharge-app-8ef1f",
+    "storage_bucket": "mobile-recharge-app-8ef1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41864241336:android:311cb12deda89c93cb544d",
+        "android_client_info": {
+          "package_name": "com.example.mobile_recharge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGLbxO-uuK7fi-1A4k3N6KlcIobgZivig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
